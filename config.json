@@ -1,0 +1,61 @@
+{
+  "ascii": [
+    "  ██████╗██████╗ ██╗    ██╗██╗  ██╗██╗███████╗██████╗ ███████╗██████╗ ",
+    " ██╔════╝╚════██╗██║    ██║██║  ██║██║██╔════╝██╔══██╗██╔════╝██╔══██╗",
+    " ██║      █████╔╝██║ █╗ ██║███████║██║███████╗██████╔╝█████╗  ██████╔╝",
+    " ██║     ██╔═══╝ ██║███╗██║██╔══██║██║╚════██║██╔═══╝ ██╔══╝  ██╔══██╗",
+    " ╚██████╗███████╗╚███╔███╔╝██║  ██║██║███████║██║     ███████╗██║  ██║",
+    "  ╚═════╝╚══════╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝╚══════╝╚═╝     ╚══════╝╚═╝  ╚═╝"
+  ],
+  "title": "C2Whisperer Terminal",
+  "username": "c2operator",
+  "hostname": "c2whisperer",
+  "password": "silent_channels",
+  "repoLink": "https://github.com/C2Whisperer/C2Whisperer.github.io",
+  "social": {
+    "email": "contact@c2whisperer.com",
+    "github": "C2Whisperer",
+    "linkedin": "tyrrell-brewster"
+  },
+  "aboutGreeting": "Welcome to C2Whisperer Terminal. Silent channels, loud impact.",
+  "projects": [
+    [
+      "C2Whisperer Blog",
+      "Cybersecurity insights and command & control research.",
+      "https://github.com/C2Whisperer/C2Whisperer-Blog"
+    ],
+    [
+      "Silent Channels Research",
+      "Advanced C2 communication techniques and methodologies.",
+      "https://github.com/C2Whisperer/silent-channels"
+    ],
+    [
+      "Command & Control Framework",
+      "Modern C2 infrastructure for red team operations.",
+      "https://github.com/C2Whisperer/c2-framework"
+    ]
+  ],
+  "colors": {
+    "background": "#0F172A",
+    "foreground": "#F1F5F9",
+    "banner": "#EF4444",
+    "border": {
+      "visible": true,
+      "color": "#10B981"
+    },
+    "prompt": {
+      "default": "#64748B",
+      "user": "#EF4444",
+      "host": "#10B981",
+      "input": "#F1F5F9"
+    },
+    "link": {
+      "text": "#10B981",
+      "highlightColor": "#8B5CF6",
+      "highlightText": "#0F172A"
+    },
+    "commands": {
+      "textColor": "#8B5CF6"
+    }
+  }
+}
