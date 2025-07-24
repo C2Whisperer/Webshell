@@ -7,55 +7,54 @@
     " ╚██████╗███████╗╚███╔███╔╝██║  ██║██║███████║██║     ███████╗██║  ██║",
     "  ╚═════╝╚══════╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝╚══════╝╚═╝     ╚══════╝╚═╝  ╚═╝"
   ],
-  "title": "C2Whisperer Terminal",
-  "username": "c2operator",
+  "title": "C2Whisperer - Silent channels, loud impact.",
+  "username": "operator",
   "hostname": "c2whisperer",
-  "password": "silent_channels",
-  "repoLink": "https://github.com/C2Whisperer/C2Whisperer.github.io",
+  "password": "infected",
   "social": {
     "email": "contact@c2whisperer.com",
     "github": "C2Whisperer",
     "linkedin": "tyrrell-brewster"
   },
-  "aboutGreeting": "Welcome to C2Whisperer Terminal. Silent channels, loud impact.",
+  "aboutGreeting": "Hi, I'm Tyrrell welcome to ny slice of the interwebs.",
   "projects": [
     [
       "C2Whisperer Blog",
-      "Cybersecurity insights and command & control research.",
-      "https://github.com/C2Whisperer/C2Whisperer-Blog"
+      "Potential Cybersecurity Insights",
+      "https://blog.C2Whisperer.com"
     ],
     [
-      "Silent Channels Research",
-      "Advanced C2 communication techniques and methodologies.",
-      "https://github.com/C2Whisperer/silent-channels"
+      "Self-Host, Self-Secure",
+      "Self-Hosted Systems. Locked Down.",
+      "https://blog.C2Whisperer.com/LockedDown"
     ],
     [
-      "Command & Control Framework",
-      "Modern C2 infrastructure for red team operations.",
-      "https://github.com/C2Whisperer/c2-framework"
+      "C2 & Me",
+      "Modernized Covert C2 Infrastructure for Red Team Operations.",
+      "https://blog.C2Whisperer/c2-infrastructure"
     ]
   ],
   "colors": {
-    "background": "#0F172A",
-    "foreground": "#F1F5F9",
-    "banner": "#EF4444",
+    "background": "#2D1B69",
+    "foreground": "#F0F0F0",
+    "banner": "#FF4081",
     "border": {
       "visible": true,
-      "color": "#10B981"
+      "color": "#00E5FF"
     },
     "prompt": {
-      "default": "#64748B",
-      "user": "#EF4444",
-      "host": "#10B981",
-      "input": "#F1F5F9"
+      "default": "#B39DDB",
+      "user": "#FF4081",
+      "host": "#00E5FF",
+      "input": "#F0F0F0"
     },
     "link": {
-      "text": "#10B981",
-      "highlightColor": "#8B5CF6",
-      "highlightText": "#0F172A"
+      "text": "#00E5FF",
+      "highlightColor": "#FF4081",
+      "highlightText": "#2D1B69"
     },
     "commands": {
-      "textColor": "#8B5CF6"
+      "textColor": "#E1BEE7"
     }
   }
 }
