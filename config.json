@@ -1,22 +1,23 @@
 {
   "ascii": [
-    "  ██████╗██████╗ ██╗    ██╗██╗  ██╗██╗███████╗██████╗ ███████╗██████╗ ",
-    " ██╔════╝╚════██╗██║    ██║██║  ██║██║██╔════╝██╔══██╗██╔════╝██╔══██╗",
-    " ██║      █████╔╝██║ █╗ ██║███████║██║███████╗██████╔╝█████╗  ██████╔╝",
-    " ██║     ██╔═══╝ ██║███╗██║██╔══██║██║╚════██║██╔═══╝ ██╔══╝  ██╔══██╗",
-    " ╚██████╗███████╗╚███╔███╔╝██║  ██║██║███████║██║     ███████╗██║  ██║",
-    "  ╚═════╝╚══════╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝╚══════╝╚═╝     ╚══════╝╚═╝  ╚═╝"
+    "  ██████╗██████╗ ██╗    ██╗██╗  ██╗██╗███████╗██████╗ ███████╗██████╗ ███████╗",
+    " ██╔════╝╚════██╗██║    ██║██║  ██║██║██╔════╝██╔══██╗██╔════╝██╔══██╗██╔════╝",
+    " ██║      █████╔╝██║ █╗ ██║███████║██║███████╗██████╔╝█████╗  ██████╔╝███████╗",
+    " ██║     ██╔═══╝ ██║███╗██║██╔══██║██║╚════██║██╔═══╝ ██╔══╝  ██╔══██╗╚════██║",
+    " ╚██████╗███████╗╚███╔███╔╝██║  ██║██║███████║██║     ███████╗██║  ██║███████║",
+    "  ╚═════╝╚══════╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝╚══════╝╚═╝     ╚══════╝╚═╝  ╚═╝╚══════╝"
   ],
   "title": "C2Whisperer - Silent channels, loud impact.",
   "username": "operator",
   "hostname": "c2whisperer",
   "password": "infected",
+  "repoLink": "https://github.com/C2Whisperer/Webshell",
   "social": {
     "email": "contact@c2whisperer.com",
     "github": "C2Whisperer",
     "linkedin": "tyrrell-brewster"
   },
-  "aboutGreeting": "Hi, I'm Tyrrell welcome to ny slice of the interwebs.",
+  "aboutGreeting": "Hi, I'm Tyrrell welcome to my slice of the interwebs.",
   "projects": [
     [
       "C2Whisperer Blog",
@@ -31,30 +32,30 @@
     [
       "C2 & Me",
       "Modernized Covert C2 Infrastructure for Red Team Operations.",
-      "https://blog.C2Whisperer/c2-infrastructure"
+      "https://blog.C2Whisperer.com/c2-infrastructure"
     ]
   ],
   "colors": {
-    "background": "#2D1B69",
-    "foreground": "#F0F0F0",
-    "banner": "#FF4081",
+    "background": "#1A0D00",
+    "foreground": "#FFD700",
+    "banner": "#DC143C",
     "border": {
       "visible": true,
-      "color": "#00E5FF"
+      "color": "#FFD700"
     },
     "prompt": {
-      "default": "#B39DDB",
-      "user": "#FF4081",
-      "host": "#00E5FF",
-      "input": "#F0F0F0"
+      "default": "#CD853F",
+      "user": "#DC143C",
+      "host": "#32CD32",
+      "input": "#FFD700"
     },
     "link": {
-      "text": "#00E5FF",
-      "highlightColor": "#FF4081",
-      "highlightText": "#2D1B69"
+      "text": "#32CD32",
+      "highlightColor": "#DC143C",
+      "highlightText": "#1A0D00"
     },
     "commands": {
-      "textColor": "#E1BEE7"
+      "textColor": "#FFA500"
     }
   }
 }
